@@ -52,10 +52,10 @@ Keep repating step 2 and step 3 until the stack is empty.
 
 ![7](https://github.com/AbrarShazid/spring/assets/137707705/02a61831-565a-44ff-97ae-b35f50376a2a)
 
+## Step 5:
+And the DFS output starting from node "0" is: 0, 1, 3, 2, 5, 4
 
-
-
-
+![8](https://github.com/AbrarShazid/spring/assets/137707705/a7ab6821-f7b1-4a75-bf79-f581b503ad1d)
 
 
 ## GIT Bash:  
