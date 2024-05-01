@@ -38,9 +38,11 @@ Keep repeating this process untill there are no adjacent node of the current nod
 
 ![3](https://github.com/AbrarShazid/spring/assets/137707705/ec478822-c243-4836-b546-7afb01ce1292)
 
+![4](https://github.com/AbrarShazid/spring/assets/137707705/bd3349ad-7da0-444d-9123-497711ca94e6)
+
 ![5](https://github.com/AbrarShazid/spring/assets/137707705/6ef9b9a5-d9e6-4578-9fa5-cd29616976eb)
 
-![4](https://github.com/AbrarShazid/spring/assets/137707705/bd3349ad-7da0-444d-9123-497711ca94e6)
+
 
 
 
