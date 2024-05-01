@@ -28,6 +28,8 @@ In this case we can start the traversal from node "0". We need to define a stack
 * Then check if there are any adjacent nodes.
 
 ## Step 2:
+We found adjacent node is 1.
+
 
 
 
