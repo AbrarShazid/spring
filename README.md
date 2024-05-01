@@ -14,6 +14,9 @@
 6.Pop the node from the top of the stack.  
 7.Repeat step 4, 5 and 6 untill the stack is empty.  
 8.When the stack is empty the whole graph is traversed.   
+## DFS Step:
+
+
 ## GIT Bash:  
 
 
