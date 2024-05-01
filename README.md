@@ -15,6 +15,9 @@
 7.Repeat step 4, 5 and 6 untill the stack is empty.  
 8.When the stack is empty the whole graph is traversed.   
 ## DFS Step:
+An adjacency matrix from this graph:
+
+![WhatsApp Image 2024-05-01 at 11 22 21 PM](https://github.com/AbrarShazid/spring/assets/137707705/9b18cc1b-8168-4414-9989-fc8d9b9a945c)
 
 
 ## GIT Bash:  
