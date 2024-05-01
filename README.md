@@ -45,6 +45,14 @@ Keep repeating this process untill there are no adjacent node of the current nod
 * Here node "5" has no adjacent node. So we will pop it out of the stack to check the previous node.
 * If the previous node has an adjacent node push it in the stack or pop the current node out of stack until any unvisited node is found
 
+## Step 4:
+Keep repating step 2 and step 3 until the stack is empty.
+
+![6](https://github.com/AbrarShazid/spring/assets/137707705/c285683e-f201-490a-a644-036fb08298de)
+
+![7](https://github.com/AbrarShazid/spring/assets/137707705/02a61831-565a-44ff-97ae-b35f50376a2a)
+
+
 
 
 
