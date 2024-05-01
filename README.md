@@ -21,7 +21,11 @@ An adjacency matrix from this graph:
 
 ## Step 1:
 In this case we can start the traversal from node "0". We need to define a stack to track the nodes.
+
 ![1](https://github.com/AbrarShazid/spring/assets/137707705/b9943adf-0f66-457f-a0b1-ca3d77adda92)
+
+*First put the first node (in this case 0) to the stack.
+* Then check if there are any adjacent nodes.
 
 ## Step 2:
 
