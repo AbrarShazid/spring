@@ -19,6 +19,12 @@ An adjacency matrix from this graph:
 
 ![WhatsApp Image 2024-05-01 at 11 22 21 PM](https://github.com/AbrarShazid/spring/assets/137707705/17b17249-477f-45c7-9027-1a77f04d2583)
 
+## Step 1:
+In this case we can start the traversal from node "0". We need to define a stack to track the nodes.
+![1](https://github.com/AbrarShazid/spring/assets/137707705/b9943adf-0f66-457f-a0b1-ca3d77adda92)
+
+## Step 2:
+
 
 
 ## GIT Bash:  
