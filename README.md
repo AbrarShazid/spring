@@ -28,7 +28,21 @@ In this case we can start the traversal from node "0". We need to define a stack
 * Then check if there are any adjacent nodes.
 
 ## Step 2:
-We found adjacent node is 1.
+* We found adjacent node is 1 so put this in stack.
+* Then check if there are any adjacent nodes of the current node.
+
+![2](https://github.com/AbrarShazid/spring/assets/137707705/11707811-eafd-4b79-bfbc-7a0b0eb51b04)
+
+## Step 3:
+Keep repeating this process untill there are no adjacent node of the current node.
+
+![3](https://github.com/AbrarShazid/spring/assets/137707705/ec478822-c243-4836-b546-7afb01ce1292)
+
+![5](https://github.com/AbrarShazid/spring/assets/137707705/6ef9b9a5-d9e6-4578-9fa5-cd29616976eb)
+
+![4](https://github.com/AbrarShazid/spring/assets/137707705/bd3349ad-7da0-444d-9123-497711ca94e6)
+
+
 
 
 
