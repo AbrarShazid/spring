@@ -16,4 +16,5 @@
 8.When the stack is empty the whole graph is traversed.
 ##GIT Bash: 
 
-![images/git.png]
+
+![git](https://github.com/AbrarShazid/spring/assets/137707705/bff2ff9b-4fe5-4a29-adb1-8454d9e19e14)
