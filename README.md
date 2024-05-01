@@ -17,7 +17,8 @@
 ## DFS Step:
 An adjacency matrix from this graph:
 
-![WhatsApp Image 2024-05-01 at 11 22 21 PM](https://github.com/AbrarShazid/spring/assets/137707705/9b18cc1b-8168-4414-9989-fc8d9b9a945c)
+![WhatsApp Image 2024-05-01 at 11 22 21 PM](https://github.com/AbrarShazid/spring/assets/137707705/17b17249-477f-45c7-9027-1a77f04d2583)
+
 
 
 ## GIT Bash:  
