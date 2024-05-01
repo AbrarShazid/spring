@@ -13,8 +13,8 @@
 5.Repeat step 4 untill there is no neighbour node, of the node which is at the top of the stack.  
 6.Pop the node from the top of the stack.  
 7.Repeat step 4, 5 and 6 untill the stack is empty.  
-8.When the stack is empty the whole graph is traversed.
-##GIT Bash: 
+8.When the stack is empty the whole graph is traversed.   
+## GIT Bash:  
 
 
 ![git](https://github.com/AbrarShazid/spring/assets/137707705/bff2ff9b-4fe5-4a29-adb1-8454d9e19e14)
